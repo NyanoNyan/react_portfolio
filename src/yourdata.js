@@ -46,63 +46,64 @@ export default {
       imageSrc:
          "/imgs/shopping_cart_main.png",
       //Project URL - Add Your Project Url Here
-      url: "https://github.com/NyanoNyan/shopping_cart",
+      url: "https://nyanonyan.github.io/shopping_cart/",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Hotel reviews prediction using Sentiment Analysis", //Project Title - Add Your Project Title Here
+      title: "CV Builder", //Project Title - Add Your Project Title Here
       para:
-        "Classify hotel review inputted by the user.", // Add Your Service Type Here
+        "Create your CV", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "/imgs/cv_builder.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://nyanonyan.github.io/CV-Project/",
+      
+    },
+    {
+      id: 5, //DO NOT CHANGE THIS (Please)😅
+      title: "Memory Card Game", //Project Title - Add Your Project Title Here
+      para:
+        "Remember all unique picture cards", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "/imgs/memory_card.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://nyanonyan.github.io/memory-game-odin/",
+    },
+    {
+      id: 4, //DO NOT CHANGE THIS (Please)😅
+      title: "Data Analysis Dashboard", //Project Title - Add Your Project Title Here
+      para:
+        "Dashboard for a DVD rental database", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "/imgs/dashboard_pic.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "https://github.com/NyanoNyan/Data_Analysis_Dashboard/",
+    },
+    {
+      id: 3, //DO NOT CHANGE THIS (Please)😅
+      title: "Hotel reviews prediction", //Project Title - Add Your Project Title Here
+      para:
+        "Classify hotel reviews", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "/imgs/hotel_review.gif",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/NyanoNyan/Hotel_reviews_sentiment_analysis",
     },
-    {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
+    // {
+    //   id: 6, //DO NOT CHANGE THIS (Please)😅
+    //   title: "Project Six", //Project Title - Add Your Project Title Here
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
